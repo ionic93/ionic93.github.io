@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://ionic93.github.io/tag/java/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://ionic93.github.io/" rel="alternate" type="text/html" />
+  <updated>2023-12-22T16:03:26+09:00</updated>
+  <id>https://ionic93.github.io/tag/java/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">JAVA Developer | </title>
+  
+
+  
+    <subtitle>JAVA개발자 포트폴리오 및 기술정리</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">자바 강좌(1) - 자바 기본</title>
+      <link href="https://ionic93.github.io/java-basic" rel="alternate" type="text/html" title="자바 강좌(1) - 자바 기본" />
+      <published>2023-12-15T01:40:00+09:00</published>
+      <updated>2023-12-15T01:40:00+09:00</updated>
+      <id>https://ionic93.github.io/java-basic</id>
+      <content type="html" xml:base="https://ionic93.github.io/java-basic">&lt;p&gt;이곳은 자바입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Lee Young Jun</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="java" />
+      
+
+      
+        <summary type="html">이곳은 자바입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
